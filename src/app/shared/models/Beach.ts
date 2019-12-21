@@ -24,4 +24,4 @@ export const Orientation = {
   Sud: 'Sud',
   Ovest: 'Ovest',
   Est: 'Est',
-};
+};;
